@@ -1,2 +1,2 @@
 # Dark-Light-Mode-Nativos
-Temas dark e light nativos do dispositivo.
+Temas dark e light nativos do dispositivo
