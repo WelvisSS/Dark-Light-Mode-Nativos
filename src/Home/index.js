@@ -1,6 +1,6 @@
 import React from 'react';
 
-import {Wrapper, Title} from './styles';
+import {Wrapper, Title } from './styles';
 
 export default function Home(){
 
@@ -8,7 +8,7 @@ export default function Home(){
         <Wrapper>
             <Title>
                 Home
-            </Title>
+            </Title>            
         </Wrapper>
     );
 
